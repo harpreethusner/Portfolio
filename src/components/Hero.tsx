@@ -45,7 +45,7 @@ export function Hero({ person }: Props) {
             >
               {person.role}
               <span className="mx-3 h-1 w-1 rounded-full bg-zinc-400" />
-              Available for freelance
+              
             </motion.p>
 
             <motion.h1

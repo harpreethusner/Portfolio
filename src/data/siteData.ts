@@ -28,7 +28,7 @@ export const personDetails: PersonDetails = {
   mobileNumber: '+91 90417-03327',
   emailAddress: 'Bhavukgarg98@gmail.com',
   role: 'Professional Video Editor',
-  bio: 'Professional Video Editor specializing in YouTube videos, Reels, and Ads',
+  bio: 'I’m a professional video editor who turns raw footage into powerful, engaging visual stories. With a strong sense of timing, detail, and emotion, I create high-impact videos that capture attention and communicate clearly.Specializing in YouTube content, reels, advertisements, and corporate videos, I blend clean edits, dynamic pacing, and purposeful storytelling to deliver results-driven visuals. Every frame I craft is designed to elevate brands, boost engagement, and leave a lasting impression.',
   about:
     "Welcome to my cinematic realm, where passion meets precision in every frame. I’m Bhavuk Garg, a professional video editor with an unyielding dedication to storytelling through motion. With a keen eye for detail and a deep understanding of visual narrative, I transform ordinary footage into extraordinary visual experiences that captivate and inspire.",
   specialties: ['Cash Cow Editing', 'Reels Editing', 'Logo Animation', 'Podcast Edit'],
