@@ -16,12 +16,12 @@ export function Hero({ person }: Props) {
       </div>
 
       <div className="container mx-auto">
-        <div className="grid gap-10 lg:grid-cols-[600px_1fr] lg:items-center">
+        <div className="grid gap-10 lg:grid-cols-[500px_1fr] lg:items-center">
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.5, ease: 'easeOut' }}
-            className="mx-auto w-full max-w-[600px]"
+            className="mx-auto w-full max-w-[400px]"
           >
             <div className="rounded-3xl bg-white/5 p-4 ring-1 ring-white/10">
               <div className="relative overflow-hidden rounded-2xl">
