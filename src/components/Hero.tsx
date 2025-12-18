@@ -16,12 +16,12 @@ export function Hero({ person }: Props) {
       </div>
 
       <div className="container mx-auto">
-        <div className="grid gap-10 lg:grid-cols-[340px_1fr] lg:items-center">
+        <div className="grid gap-10 lg:grid-cols-[600px_1fr] lg:items-center">
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.5, ease: 'easeOut' }}
-            className="mx-auto w-full max-w-[340px]"
+            className="mx-auto w-full max-w-[600px]"
           >
             <div className="rounded-3xl bg-white/5 p-4 ring-1 ring-white/10">
               <div className="relative overflow-hidden rounded-2xl">
@@ -44,7 +44,6 @@ export function Hero({ person }: Props) {
               className="inline-flex items-center rounded-full bg-white/5 px-4 py-2 text-sm text-zinc-300 ring-1 ring-white/10"
             >
               {person.role}
-              <span className="mx-3 h-1 w-1 rounded-full bg-zinc-400" />
               
             </motion.p>
 
