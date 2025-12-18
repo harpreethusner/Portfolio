@@ -21,12 +21,12 @@ export type PortfolioVideo = {
   category: VideoCategory
 }
 
-import avatar2 from '../assets/avatar2.jpg'
+import avatar2 from '../assets/avatar2.png'
 
 export const personDetails: PersonDetails = {
-  fullName: 'Full Name',
-  mobileNumber: '+1 234 567 890',
-  emailAddress: 'your.email@example.com',
+  fullName: 'Bhavuk Garg',
+  mobileNumber: '+91 90417-03327',
+  emailAddress: 'Bhavukgarg98@gmail.com',
   role: 'Professional Video Editor',
   bio: 'Professional Video Editor specializing in YouTube videos, Reels, and Ads',
   about:
