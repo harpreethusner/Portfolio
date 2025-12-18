@@ -39,7 +39,7 @@ export function Navbar() {
           <span className="grid size-9 place-items-center rounded-xl bg-gradient-to-br from-fuchsia-500/20 to-cyan-400/20 ring-1 ring-white/10">
             <FaVideo className="text-fuchsia-200" />
           </span>
-          <span className="font-semibold tracking-tight">Test</span>
+          <span className="font-semibold tracking-tight">Harpreet</span>
         </a>
 
         <nav className="hidden items-center gap-1 md:flex" aria-label="Primary">
