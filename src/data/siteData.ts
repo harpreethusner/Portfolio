@@ -43,6 +43,31 @@ export const personDetails: PersonDetails = {
  */
 export const portfolioVideos: PortfolioVideo[] = [
   {
+  id: '8a4vVfIn0TQ',
+  title:
+    'Gal Naal Laa - Official Video | Sajjan Adeeb | Rumman Ahmed | Desi Crew | Punjabi Song 2023',
+  youtubeUrl: 'https://www.youtube.com/watch?v=8a4vVfIn0TQ',
+  thumbnailUrl: 'https://i.ytimg.com/vi/8a4vVfIn0TQ/hqdefault.jpg',
+  category: 'YouTube',
+},
+{
+  id: 'j-AfzT3m5rs',
+  title:
+    'Waheguru Bol Mna | Nachhatar Gill | Rimpy Prince | Punjabi Songs 2023 | T S Teer',
+  youtubeUrl: 'https://www.youtube.com/watch?v=j-AfzT3m5rs',
+  thumbnailUrl: 'https://i.ytimg.com/vi/j-AfzT3m5rs/hqdefault.jpg',
+  category: 'YouTube',
+},
+{
+  id: 'O4CYURpAb_Y',
+  title:
+    'Screen (Full Video) | Adaab Kharoud Ft. Kaka | New Punjabi Songs 2023',
+  youtubeUrl: 'https://www.youtube.com/watch?v=O4CYURpAb_Y',
+  thumbnailUrl: 'https://i.ytimg.com/vi/O4CYURpAb_Y/hqdefault.jpg',
+  category: 'YouTube',
+},
+
+  {
     id: 'M6xrUMIGJUE',
     title:
       'Only Reason : BIG Shankee D Ft. Harleen Khera(Official Song)| New Punjabi Songs 2021 | Single Track',
