@@ -25,12 +25,13 @@ export function Hero({ person }: Props) {
           >
             <div className="rounded-3xl bg-white/5 p-4 ring-1 ring-white/10">
               <div className="relative overflow-hidden rounded-2xl">
-                <img
-                  src={person.profilePictureUrl}
-                  alt={`${person.fullName} profile`}
-                  className="aspect-square w-full object-cover"
-                  loading="lazy"
-                />
+               <img
+  src={person.profilePictureUrl}
+  alt={`${person.fullName} profile`}
+  className="w-full h-[520px] object-cover object-top"
+  loading="lazy"
+/>
+
                 <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-zinc-950/70 via-transparent to-transparent" />
               </div>
             </div>

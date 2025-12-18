@@ -147,14 +147,7 @@ export const portfolioVideos: PortfolioVideo[] = [
     thumbnailUrl: 'https://i.ytimg.com/vi/3kw5HG8mMXU/hqdefault.jpg',
     category: 'YouTube',
   },
-   {
-    id: '3kw5HG8mKLU',
-    title:
-      'vee Mummy Cha Te bulanundi pai a (Official Video) - Ishita  | Latest Punjabi Song 2022',
-    youtubeUrl: 'https://www.youtube.com/shorts/-HH21cOZ1iM',
-    thumbnailUrl: 'https://i.ytimg.com/vi/3kw5HG8mMXU/hqdefault.jpg',
-    category: 'Shorts',
-  },
+   
 ]
 
 
